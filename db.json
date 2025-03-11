@@ -4,10 +4,10 @@
       "version": "1.0lief",
       "msg": "0",
       "isios": 0,
-      "iosU": "n2745jf209hc",
+      "iosU": "z87xvneqa328",
       "Area": [
     {
-          "key": "HK",
+          "key": "PH",
           "name": "1",
           "value": "list",
           "code": "admin"
@@ -27,13 +27,45 @@
       ],
       "Event": [
         "test",
+        "deposit_click",
+        "deposit_success",
+        "first_deposit",
+        "home_view",
+        "login_click",
+        "login_success",
+        "logout_success",
+        "register_success",
+        "login",
         "register",
-        "Log_in"
+        "deposit",
+        "redeposit",
+        "firstDepositArrival",
+        "withdraw",
+        "Log_in",
+        "Place_an_order",
+        "pay",
+        "firstDepositArrival"
       ],
       "ID": [
         "testid",
-        "hdtnrt",
-        "w5l86b"
+        "n4ib6m",
+        "47egq8",
+        "tdp2ca",
+        "ud3k32",
+        "4g5y6w",
+        "6v8433",
+        "62d73k",
+        "1zktui",
+        "9vl8jw",
+        "e2qfqv",
+        "ces7wi",
+        "rc21uz",
+        "tzhdvs",
+        "nughxs",
+        "6ya906",
+        "9g1zxu",
+        "b1u608",
+        "tzhdvs"
       ],
       "quertip": [
       ]
