@@ -2,14 +2,14 @@
   "userinfo": {
     "privacy": {
       "version": "1.0lief",
-      "msg": "0",
+      "msg": "1",
       "isios": 0,
       "iosU": "n2745jf209hc",
       "Area": [
     {
-          "key": "CD",
+          "key": "HK",
           "name": "1",
-          "value": "acs",
+          "value": "Https://www.baidu.com",
           "code": "admin"
         },
         {
