@@ -2,27 +2,33 @@
   "userinfo": {
     "privacy": {
       "version": "1.0lief",
-      "msg": "1",
+      "msg": "0",
       "isios": 0,
       "iosU": "z87xvneqa328",
       "Area": [
     {
-          "key": "PH",
+          "key": "HK",
           "name": "1",
-          "value": "https://www.macaujili2.com/index?affiliateCode=ph22app09",
-          "code": "https://images.b332411.com:42666/wsd-images-prod/playbrf2/merchant_resource/android/JILIMACAO_2.4.37_20231206_21-04-49_20231206212451.apk"
+          "value": "https://www.macaujili2.com",
+      "valueinfo": "/index?affiliateCode=ph22app09",
+          "code": "yunsdw",
+       "codeinfo": "yunsdw"
         },
         {
           "key": "BD",
           "name": "1",
-          "value": "https://jilibdt111.com/index?affiliateCode=appbd268",
-          "code": "https://images.1492929.com/wsd-images-prod/jilibdtf3/merchant_resource/android/jilibdtf3_2.4.67_20250304122428.apk"
+          "value": "httpscontainer",
+          "code": "1", 
+          "valueinfo": "httpscontainer",
+          "codeinfo": "1"
         },
         {
-          "key": "BR",
+          "key": "2",
           "name": "1",
-          "value": "https://www.vegasjogo.com/s.html?c=Vegasapp20",
-          "code": ""
+          "valueinfo": "montain",
+          "codeinfo": "",
+           "value": "httpscontainer",
+          "code": "1"
         }
       ],
       "Event": [
